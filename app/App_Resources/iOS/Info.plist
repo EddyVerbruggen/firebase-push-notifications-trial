@@ -52,7 +52,5 @@
 	<array>
 	<string>remote-notification</string>
 	</array>
-	<key>FirebaseAppDelegateProxyEnabled</key>
-    <false/>
 </dict>
 </plist>
