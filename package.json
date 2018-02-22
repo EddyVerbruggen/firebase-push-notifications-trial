@@ -13,7 +13,7 @@
     "lint": "eslint \"app/**/*.js\""
   },
   "dependencies": {
-    "nativescript-plugin-firebase": "^5.1.7",
+    "nativescript-plugin-firebase": "^5.1.1",
     "nativescript-social-share": "^1.5.0",
     "nativescript-theme-core": "1.0.4",
     "tns-core-modules": "3.3.0"
